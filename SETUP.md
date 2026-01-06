@@ -33,7 +33,7 @@ Personal Access Tokens (PATs) are an established best practice for securing acce
 7. **Copy the token immediately** - you won't be able to see it again!
 8. Store it securely (you'll use it as your password when using git from your local machine)
 
-## Using GitHub Codespaces for your Projects (Recommended)
+## Using GitHub Codespaces for Your Projects (Recommended)
 
 The easiest way to get started is to use GitHub Codespaces. You can launch Codespaces directly through your repo in GitHub; all the software tools you will need are already configured and will be at your disposal with a single click of a button. It couldn't be easier. 
 
@@ -48,21 +48,23 @@ You should see a screen like this:
 
 Once your codespace is ready, you'll have a fully configured development environment in your browser!
 
-## Setting up your own computer for course Projects (Optional)
+## Setting Up Your Own Computer for Course Projects (Optional)
 
 **Note: If you are new to programming and are not familiar with installing programming tools on your computer, I highly recommend skipping this step and using GitHub Codespaces instead.** This will allow you to get started immediately without the hassle of troubleshooting any setup issues.
 
 However, if you want to set up an environment for class work on your own computer, here are the basic steps. 
 
-To set up your own computer for all course activities I highly encourage you to install all the software tools in a new environment. Think of an environment as an isolated area to install the software packages you need for a specific project, i.e. in this case the course activities. Packages in an environment are isolated from other software packages on your computer. An environment
+To set up your own computer for all course activities I highly encourage you to install all the python packages in a new environment. Think of an environment as an isolated area to install the software packages you need for a specific project, i.e. in this case the course activities. Packages in an environment are isolated from other software packages on your computer. An environment
    - **Best practice:** create a new environment for each of your projects.
    - **Isolation:** is typically defined in a specific folder on your computer.
    - **Experimentation:** allows experimenting with installation of new packages without disrupting packages in other environments 
    - **Multiple projects:** allows you to manage conflicting packages in separate environments
 
-You will need to install the following software tools.
+### VSCode (Windows, Mac, Linux)
 
-### Windows
+Download and install [Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview) from the official website. Follow the platform-specific installation instructions for your operating system (Windows, macOS, or Linux).
+
+### Windows (Tools & Python)
 
 Since we're using the Linux command line, you will need to install a Linux-like terminal program. I recommend installing Git-Bash which provides the Linux-style terminal and also Git.
 
@@ -92,7 +94,7 @@ Since we're using the Linux command line, you will need to install a Linux-like 
 **Note: The first step when opening a new terminal is to run `conda activate ds2002`.** You can add that command to the ~/.bashrc file if you wish.
 
 
-### MacOS, Linux
+### MacOS, Linux (Tools & Python)
 
 MacOS and Linux have terminal applications pre-installed. So you won't need Git-Bash. Follow these steps to install miniforge for Python.
 
