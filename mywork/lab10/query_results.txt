@@ -1,0 +1,14 @@
+book_id	title	genre	publish_year	author_name	country
+101	1984	Dystopian	1949	George Orwell	United Kingdom
+102	Animal Farm	Political Satire	1945	George Orwell	United Kingdom
+103	Pride and Prejudice	Romance	1813	Jane Austen	United Kingdom
+104	Emma	Romance	1815	Jane Austen	United Kingdom
+105	Adventures of Huckleberry Finn	Adventure	1884	Mark Twain	United States
+106	Things Fall Apart	Historical Fiction	1958	Chinua Achebe	Nigeria
+107	Norwegian Wood	Fiction	1987	Haruki Murakami	Japan
+108	Beloved	Historical Fiction	1987	Toni Morrison	United States
+109	One Hundred Years of Solitude	Magical Realism	1967	Gabriel Garcia Marquez	Colombia
+110	Harry Potter and the Sorcerer's Stone	Fantasy	1997	J.K. Rowling	United Kingdom
+111	The Alchemist	Fiction	1988	Paulo Coelho	Brazil
+112	The House of the Spirits	Magical Realism	1982	Isabel Allende	Chile
+113	Kafka on the Shore	Fiction	2002	Haruki Murakami	Japan
